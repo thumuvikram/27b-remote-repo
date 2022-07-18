@@ -22,4 +22,4 @@ if num > 1:
 if flag:
     print(num, "is not a prime number")
 else:
-    print(num, "is a prime number")
+    print(num, "this is a print number")
